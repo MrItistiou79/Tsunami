@@ -1,0 +1,10 @@
+^C:\USERS\NORDIN TRIFIRO\DOCUMENTS\COURS_UNIF\Q6\LEPL1110ELEMENTSFINIS\DEVOIRS\DEVOIRS-LEPL1110\TSUNAMI\BUILD\CMAKEFILES\9E6D79E45C526DEBBCF2C7EBC5691491\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami" "-BC:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/myFemProject.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

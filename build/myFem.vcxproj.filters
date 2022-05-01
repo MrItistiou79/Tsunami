@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Nordin Trifiro\Documents\Cours_unif\Q6\LEPL1110ElementsFinis\Devoirs\Devoirs-LEPL1110\Tsunami\src\glu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nordin Trifiro\Documents\Cours_unif\Q6\LEPL1110ElementsFinis\Devoirs\Devoirs-LEPL1110\Tsunami\src\tsunami.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nordin Trifiro\Documents\Cours_unif\Q6\LEPL1110ElementsFinis\Devoirs\Devoirs-LEPL1110\Tsunami\src\homework.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Nordin Trifiro\Documents\Cours_unif\Q6\LEPL1110ElementsFinis\Devoirs\Devoirs-LEPL1110\Tsunami\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nordin Trifiro\Documents\Cours_unif\Q6\LEPL1110ElementsFinis\Devoirs\Devoirs-LEPL1110\Tsunami\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EB448D3E-85F4-37C5-8580-37D5EB293EE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

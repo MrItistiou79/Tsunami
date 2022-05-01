@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nordin Trifiro\Documents\Cours_unif\Q6\LEPL1110ElementsFinis\Devoirs\Devoirs-LEPL1110\Tsunami\build\CMakeFiles\9e6d79e45c526debbcf2c7ebc5691491\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DE7DA1CF-8F1D-3672-BC51-6E805B055B90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

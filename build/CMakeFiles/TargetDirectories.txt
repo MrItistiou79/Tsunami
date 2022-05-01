@@ -1,0 +1,6 @@
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/CMakeFiles/myFem.dir
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/CMakeFiles/run.dir
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/build/glfw/src/CMakeFiles/glfw.dir

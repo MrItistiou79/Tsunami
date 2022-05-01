@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.16/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.16/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/glfw/CMake/modules/FindVulkan.cmake
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/glfw/CMakeLists.txt
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/glfw/src/glfw3.pc.in
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/glfw/src/glfw3Config.cmake.in
+C:/Users/Nordin Trifiro/Documents/Cours_unif/Q6/LEPL1110ElementsFinis/Devoirs/Devoirs-LEPL1110/Tsunami/glfw/src/glfw_config.h.in
